@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardkilea
-- 👀 I’m interested in Artificial intelligence
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine learning and Data science
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me @Richardkilea@gmail.com
